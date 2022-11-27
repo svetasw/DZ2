@@ -1,0 +1,15 @@
+C:\Users\sveta\OneDrive\Рабочий стол\DZ2\DZ10\obj\Debug\net6.0\DZ10.csproj.AssemblyReference.cache
+C:\Users\sveta\OneDrive\Рабочий стол\DZ2\DZ10\obj\Debug\net6.0\DZ10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sveta\OneDrive\Рабочий стол\DZ2\DZ10\obj\Debug\net6.0\DZ10.AssemblyInfoInputs.cache
+C:\Users\sveta\OneDrive\Рабочий стол\DZ2\DZ10\obj\Debug\net6.0\DZ10.AssemblyInfo.cs
+C:\Users\sveta\OneDrive\Рабочий стол\DZ2\DZ10\obj\Debug\net6.0\DZ10.csproj.CoreCompileInputs.cache
+C:\Users\sveta\OneDrive\Рабочий стол\DZ2\DZ10\bin\Debug\net6.0\DZ10.exe
+C:\Users\sveta\OneDrive\Рабочий стол\DZ2\DZ10\bin\Debug\net6.0\DZ10.deps.json
+C:\Users\sveta\OneDrive\Рабочий стол\DZ2\DZ10\bin\Debug\net6.0\DZ10.runtimeconfig.json
+C:\Users\sveta\OneDrive\Рабочий стол\DZ2\DZ10\bin\Debug\net6.0\DZ10.dll
+C:\Users\sveta\OneDrive\Рабочий стол\DZ2\DZ10\bin\Debug\net6.0\DZ10.pdb
+C:\Users\sveta\OneDrive\Рабочий стол\DZ2\DZ10\obj\Debug\net6.0\DZ10.dll
+C:\Users\sveta\OneDrive\Рабочий стол\DZ2\DZ10\obj\Debug\net6.0\refint\DZ10.dll
+C:\Users\sveta\OneDrive\Рабочий стол\DZ2\DZ10\obj\Debug\net6.0\DZ10.pdb
+C:\Users\sveta\OneDrive\Рабочий стол\DZ2\DZ10\obj\Debug\net6.0\DZ10.genruntimeconfig.cache
+C:\Users\sveta\OneDrive\Рабочий стол\DZ2\DZ10\obj\Debug\net6.0\ref\DZ10.dll
